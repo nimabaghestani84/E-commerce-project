@@ -1,0 +1,17 @@
+
+  .category-slider.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .category-slider .swiper-slide {
+   
+  width: 100%;
+  height: 100%;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
